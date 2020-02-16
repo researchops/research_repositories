@@ -2,8 +2,6 @@
 Last year, we kicked off another global effort within the [ResearchOps Community](https://researchops.community/) -- to explore how we can contribute to the fast-changing field of research repositories. This is one part of that effort: a set of experience mapping workshops around the globe where we each can reflect on our experiences interacting with libraries of research data. 
 * Map of cities & workshops: [Map of Workshops](https://drive.google.com/open?id=1A8hKXKrTy0Xq_GmoIt-PWEpHYuqkdcj5&usp=sharing)
 * Our Project Brief: [Project Brief](https://docs.google.com/document/d/1fTAkTZv2m6zGmlKWk-6C2fEUiagxShkh49L4UwUmw5g/edit?usp=sharing)
-* Participant summary form • organizers to fill out day after workshop
-* Workshop feedback form • organizers send to participants (see post-workshop outreach language)
 ## Organise a workshop
 (Call to action - be brave, we need you and we are here to help) 
 * Sign up here: [Sign up as an organiser](https://docs.google.com/forms/d/1ch9bDJdmQlMFwm4_4MsRpjh4ZxyjCM_v5Mi61kzuuPQ/viewform?edit_requested=true)
