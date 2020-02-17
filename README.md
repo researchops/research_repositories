@@ -20,6 +20,8 @@ The Data folder: https://drive.google.com/drive/folders/1xLpobgr6ywOwqAMrzgoc-5G
 The Research folder: https://drive.google.com/drive/folders/1IdBI3HeQtGY98a7YlW1b-gMVzcStYjyS?usp=sharing 
 Please feel free to add to the spreadsheet, add research, existing taxonomies, templates, examples of research artefacts, research on research methodology, ethnographic data, whatever you think is useful!
 
+<img width="660" alt="Tube map v1" src="https://user-images.githubusercontent.com/61110861/74689383-eb2a6080-51a8-11ea-98b3-62728a0e190b.png">
+
 ## Articles & Blog Posts
 * [Our Project Brief](https://docs.google.com/document/d/1fTAkTZv2m6zGmlKWk-6C2fEUiagxShkh49L4UwUmw5g/edit?usp=sharing)
 * [Researching the Repositories… Get Involved!](https://medium.com/researchops-community/researching-the-repositories-get-involved-1a0f53ee2398)
