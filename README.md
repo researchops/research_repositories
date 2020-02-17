@@ -2,6 +2,7 @@
 Last year, we kicked off another global effort within the [ResearchOps Community](https://researchops.community/) -- to explore how we can contribute to the fast-changing field of research repositories. This is one part of that effort: a set of experience mapping workshops around the globe where we each can reflect on our experiences interacting with libraries of research data. 
 
 _for Mark -- this is an example of including an image. the trick is to go up to Issues, hit the Add a new issue button, and then drag your image file into the big box, where it will be translated into a url that you can copy and paste directly here. You don't need to save the issue._
+
 <img width="660" alt="Tube map v1" src="https://user-images.githubusercontent.com/61110861/74689383-eb2a6080-51a8-11ea-98b3-62728a0e190b.png">
 
 ## Articles & Blog Posts
