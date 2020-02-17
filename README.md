@@ -51,7 +51,7 @@ _this section covers the way we are using experience mapping and what we intend 
 
 #### Outreach and Event Language
 
-### Workshop Attendees: Everything you need to know(#anchor-attendees-everything-to-know)
+### Workshop Attendees: [Everything you need to know](#anchor-attendees-everything-to-know)
 * Find in-person workshops here: (link to map) or join an online workshop: (link to schedule of online workshops)
 * Know before you go: (all the stuff to know about attending, and this is an opportunity to enable folks to self-select in or out based on having actual experience with repositories.)
 
