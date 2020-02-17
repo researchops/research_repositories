@@ -47,13 +47,12 @@ _this section covers the way we are using experience mapping and what we intend 
 * [Sign up as an organiser](https://docs.google.com/forms/d/1ch9bDJdmQlMFwm4_4MsRpjh4ZxyjCM_v5Mi61kzuuPQ/viewform?edit_requested=true)
 * Organizer FAQ • attempting to answer your questions beyond the facilitator guide
 * What to do step by step in a simple graphic, with a link to the Being an Organiser section
-* Link to workshop materials section
-
 
 #### Outreach and Event Language
+_TBD_
 
 ### Workshop Attendees: Everything to know
-* Find in-person workshops here: (link to map) or join an online workshop: (link to schedule of online workshops)
+* Find in-person workshops on the [Map](https://www.google.com/maps/d/u/0/edit?mid=1rRM3nncH5YOkL1aCzwFskF0Vzk1vbRoo&ll=20.819791416066206%2C6.252782455528518&z=3) or join an [online workshop](link to schedule of online workshops)
 * Know before you go: (all the stuff to know about attending, and this is an opportunity to enable folks to self-select in or out based on having actual experience with repositories.)
 
 ### Analysing the Data
