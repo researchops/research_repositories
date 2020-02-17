@@ -19,6 +19,12 @@ The Governance folder: https://drive.google.com/drive/folders/1461G8-y_qOI_Ake19
 The Data folder: https://drive.google.com/drive/folders/1xLpobgr6ywOwqAMrzgoc-5GsrT3umzSL?usp=sharing 
 The Research folder: https://drive.google.com/drive/folders/1IdBI3HeQtGY98a7YlW1b-gMVzcStYjyS?usp=sharing 
 Please feel free to add to the spreadsheet, add research, existing taxonomies, templates, examples of research artefacts, research on research methodology, ethnographic data, whatever you think is useful!
+
+## Articles & Blog Posts
+* [Our Project Brief](https://docs.google.com/document/d/1fTAkTZv2m6zGmlKWk-6C2fEUiagxShkh49L4UwUmw5g/edit?usp=sharing)
+* [Get Involved](https://medium.com/researchops-community/researching-the-repositories-get-involved-1a0f53ee2398)
+* _we could also post notes from the organiser debrief sessions and workshop experiences_
+
 # The 2020 Research Repositories Workshops 
 Last year, we kicked off another global effort within the [ResearchOps Community](https://researchops.community/) -- to explore how we can contribute to the fast-changing field of research repositories. This is one part of that effort: a set of experience mapping workshops around the globe where we each can reflect on our experiences interacting with libraries of research data. _add what the outcome will be as a reason to be involved_
 ## We need your help!
@@ -48,8 +54,4 @@ _here we can talk about the process, specifically, for getting all the data and 
 ## Workshop Attendees: Everything you need to know 
 * Find in-person workshops here: (link to map) or join an online workshop: (link to schedule of online workshops)
 * Know before you go: (all the stuff to know about attending, and this is an opportunity to enable folks to self-select in or out based on having actual experience with repositories. Highlight it here, and link to the sections below.)
-## About the Project as we go
-* Our Project Brief: [Project Brief](https://docs.google.com/document/d/1fTAkTZv2m6zGmlKWk-6C2fEUiagxShkh49L4UwUmw5g/edit?usp=sharing)
-* Article #1
-* Article #2
-* Shareable notes from the debrief sessions and workshop experiences 
+
