@@ -22,7 +22,7 @@ Please feel free to add to the spreadsheet, add research, existing taxonomies, t
 
 ## Articles & Blog Posts
 * [Our Project Brief](https://docs.google.com/document/d/1fTAkTZv2m6zGmlKWk-6C2fEUiagxShkh49L4UwUmw5g/edit?usp=sharing)
-* [Get Involved](https://medium.com/researchops-community/researching-the-repositories-get-involved-1a0f53ee2398)
+* [Researching the Repositories… Get Involved!](https://medium.com/researchops-community/researching-the-repositories-get-involved-1a0f53ee2398)
 * _we could also post notes from the organiser debrief sessions and workshop experiences_
 
 # The 2020 Research Repositories Workshops 
