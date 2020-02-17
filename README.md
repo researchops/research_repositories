@@ -25,7 +25,6 @@ Please feel free to add to the spreadsheet, add research, existing taxonomies, t
 * [Researching the Repositories… Get Involved!](https://medium.com/researchops-community/researching-the-repositories-get-involved-1a0f53ee2398)
 * _we could also post notes from the organiser debrief sessions and workshop experiences_
 
-![blue section bar](https://drive.google.com/open?id=1s3KRYVMcG40X2jBJDlYm8imhkslxtK9K)
 <img width="828" alt="Blue Bar" src="https://user-images.githubusercontent.com/61110861/74689265-7fe08e80-51a8-11ea-98ee-9919922a35f0.png">
 
 # The 2020 Research Repositories Workshops 
