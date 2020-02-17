@@ -26,7 +26,7 @@ _add what the outcome will be as a reason to be involved_
 _This section is for the calls-to-action that are most critical to the project right now and will evolve as we go -- but that does mean we need to have any links included here available in other sections more permanently_
 
 ### Organise a Workshop
-* [Sign up as a workshop organiser](https://docs.google.com/forms/d/1ch9bDJdmQlMFwm4_4MsRpjh4ZxyjCM_v5Mi61kzuuPQ/viewform?edit_requested=true). Take a look at what is involved in the [Everything You Need To Know](#anchor-organisers-everything-to-know)section below. And we are here to support you! Once you have signed up, we ask that you join us for an [organiser briefing] to help you get started. So far, 55 organisers have raised their hands to hold workshops in 20 countries. 
+* [Sign up as a workshop organiser](https://docs.google.com/forms/d/1ch9bDJdmQlMFwm4_4MsRpjh4ZxyjCM_v5Mi61kzuuPQ/viewform?edit_requested=true). Take a look at what is involved in the [Everything You Need To Know](#workshop-organisers-everything-to-know) section below. And we are here to support you! Once you have signed up, we ask that you join us for an [organiser briefing] to help you get started. So far, 55 organisers have raised their hands to hold workshops in 20 countries. 
 
 ### Attend a Workshop
 * Or you can join a workshop as an attendee. [Register your interest](link) and then check the [Map of Workshops](https://www.google.com/maps/d/u/0/edit?mid=1rRM3nncH5YOkL1aCzwFskF0Vzk1vbRoo&ll=20.819791416066206%2C6.252782455528518&z=3) to find one near you, or join an [online workshop]. Learn more in the [Everything You Need To Know](#anchor-attendees-everything-to-know) section below.
@@ -47,12 +47,12 @@ _this section covers the way we are using experience mapping and what we intend 
 * [Sign up as an organiser](https://docs.google.com/forms/d/1ch9bDJdmQlMFwm4_4MsRpjh4ZxyjCM_v5Mi61kzuuPQ/viewform?edit_requested=true)
 * Organizer FAQ • attempting to answer your questions beyond the facilitator guide
 * What to do step by step in a simple graphic, with a link to the Being an Organiser section
-* Link to workshop materials section (###workshop-organisers)
+* Link to workshop materials section
 
 
 #### Outreach and Event Language
 
-### Workshop Attendees: [Everything you need to know](#anchor-attendees-everything-to-know)
+### Workshop Attendees: Everything to know
 * Find in-person workshops here: (link to map) or join an online workshop: (link to schedule of online workshops)
 * Know before you go: (all the stuff to know about attending, and this is an opportunity to enable folks to self-select in or out based on having actual experience with repositories.)
 
