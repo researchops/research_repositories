@@ -16,6 +16,7 @@ _this section covers the way we are using experience mapping and what we intend 
 * [Post Workshop Survey](https://docs.google.com/document/d/1hgNU7NTO-Li9MdB4HsOK00wxoK6TQrzmfzC7c8c_96E/edit#heading=h.aaqas653p77l)
 * [Airtable Analysis Template](https://airtable.com/shrWvW4cLM4OxuJXQ)
 ### How we are capturing the data
+_here we can talk about the process, specifically, for getting all the data and making it analysable._
 ## Workshop Organisers: Everything you need to know
 (Call to action - be brave, we need you and we are here to help) 
 * Sign up here: [Sign up as an organiser](https://docs.google.com/forms/d/1ch9bDJdmQlMFwm4_4MsRpjh4ZxyjCM_v5Mi61kzuuPQ/viewform?edit_requested=true)
