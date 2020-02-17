@@ -26,10 +26,10 @@ _add what the outcome will be as a reason to be involved_
 _This section is for the calls-to-action that are most critical to the project right now and will evolve as we go -- but that does mean we need to have any links included here available in other sections more permanently_
 
 ### Organise a Workshop
-* [Sign up as a workshop organiser](https://docs.google.com/forms/d/1ch9bDJdmQlMFwm4_4MsRpjh4ZxyjCM_v5Mi61kzuuPQ/viewform?edit_requested=true). Take a look at what is involved in the [Workshop Organisers: Everything to know](#workshop-organisers-everything-to-know) section below. And we are here to support you! Once you have signed up, we ask that you join us for an [organiser briefing] to help you get started. So far, 55 organisers have raised their hands to hold workshops in 20 countries. 
+* [Sign up as a workshop organiser](https://docs.google.com/forms/d/1ch9bDJdmQlMFwm4_4MsRpjh4ZxyjCM_v5Mi61kzuuPQ/viewform?edit_requested=true). Take a look at what is involved in the [Workshop Organisers](#workshop-organisers-everything-to-know) section below. And we are here to support you! Once you have signed up, we ask that you join us for an [organiser briefing] to help you get started. So far, 55 organisers have raised their hands to hold workshops in 20 countries. 
 
 ### Attend a Workshop
-* Or you can join a workshop as an attendee. [Register your interest](link) and then check the [Map of Workshops](https://www.google.com/maps/d/u/0/edit?mid=1rRM3nncH5YOkL1aCzwFskF0Vzk1vbRoo&ll=20.819791416066206%2C6.252782455528518&z=3) to find one near you, or join an [online workshop]. Learn more in the [Workshop Attendees: Everything to know](#workshop-attendees-everything-to-know) section below.
+* Or you can join a workshop as an attendee. [Register your interest](link) and then check the [Map of Workshops](https://www.google.com/maps/d/u/0/edit?mid=1rRM3nncH5YOkL1aCzwFskF0Vzk1vbRoo&ll=20.819791416066206%2C6.252782455528518&z=3) to find one near you, or join an [online workshop]. Learn more in the [Workshop Attendees](#workshop-attendees-everything-to-know) section below.
 
 ## Experience Mapping Workshops
 _this section covers the way we are using experience mapping and what we intend to get out of the workshops. all the links to materials and apps are housed in this section. we can also include how we will be capturing / collating / analysing the data._
