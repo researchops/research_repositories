@@ -32,4 +32,4 @@ _here we can talk about the process, specifically, for getting all the data and 
 * Our Project Brief: [Project Brief](https://docs.google.com/document/d/1fTAkTZv2m6zGmlKWk-6C2fEUiagxShkh49L4UwUmw5g/edit?usp=sharing)
 * Article #1
 * Article #2
-* Shareable notes from the debrief sessions and workshop experiences
+* Shareable notes from the debrief sessions and workshop experiences 
