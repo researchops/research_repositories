@@ -4,7 +4,7 @@ _add what the outcome will be as a reason to be involved_
 ## We need your help!
 _This section is for the calls-to-action that are most critical to the project right now and will evolve as we go -- but that does mean we need to have any links included here available in other sections more permanently_
 * Sign up as an organiser [here](https://docs.google.com/forms/d/1ch9bDJdmQlMFwm4_4MsRpjh4ZxyjCM_v5Mi61kzuuPQ/viewform?edit_requested=true), join us for an [organiser briefing], and take a look at the [facilitator pack] to see what is involved. 
-* Join a workshop as an attendee. Register your interest here, and check the [Map of Workshops](https://drive.google.com/open?id=1A8hKXKrTy0Xq_GmoIt-PWEpHYuqkdcj5&usp=sharing) to find one near you, or join an [online workshop ].
+* Join a workshop as an attendee. Register your interest here, and check the [Map of Workshops](https://www.google.com/maps/d/u/0/edit?mid=1rRM3nncH5YOkL1aCzwFskF0Vzk1vbRoo&ll=20.819791416066206%2C6.252782455528518&z=3) to find one near you, or join an [online workshop ].
 ## Experience Mapping Workshops
 _this section covers the way we are using experience mapping and what we intend to get out of the workshops. all the links to materials and apps are housed in this section. we can also include how we will be capturing / collating / analysing the data._
 ### Doing Experience Mapping Well
