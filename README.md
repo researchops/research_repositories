@@ -42,12 +42,13 @@ _this section covers the way we are using experience mapping and what we intend 
 * [Post Workshop Survey](https://docs.google.com/document/d/1hgNU7NTO-Li9MdB4HsOK00wxoK6TQrzmfzC7c8c_96E/edit#heading=h.aaqas653p77l)
 * [Airtable Analysis Template](https://airtable.com/shrWvW4cLM4OxuJXQ)
 
-### Workshop Organisers: Everything you need to know(#anchor-organisers-everything-to-know)
+### Workshop Organisers: #Everything to know
 (Call to action - be brave, we need you and we are here to help) 
 * [Sign up as an organiser](https://docs.google.com/forms/d/1ch9bDJdmQlMFwm4_4MsRpjh4ZxyjCM_v5Mi61kzuuPQ/viewform?edit_requested=true)
 * Organizer FAQ • attempting to answer your questions beyond the facilitator guide
 * What to do step by step in a simple graphic, with a link to the Being an Organiser section
-* Link to workshop materials section
+* Link to workshop materials section (#everything-to-know)
+
 
 #### Outreach and Event Language
 
