@@ -1,5 +1,24 @@
 # The Research Repositories Project 
 Last year, we kicked off another global effort within the [ResearchOps Community](https://researchops.community/) -- to explore how we can contribute to the fast-changing field of research repositories. This is one part of that effort: a set of experience mapping workshops around the globe where we each can reflect on our experiences interacting with libraries of research data. 
+Welcome! 
+We’re so excited that you’re considering joining us for the research repositories project. This is an ambitious project made possible only by y’all volunteering.
+
+More of a visual person? This is also available in Mural format: https://app.mural.co/t/researchopscommunity7839/m/researchopscommunity7839/1561552976295/8c67bcc9f81501c291646073eb53069580347a0e
+
+Catch up on the history of the project and ask questions in Guide to the Research Repos project
+Start with the project brief. This explains more about what the project is about and who it is for.
+Review the soft gantt. The work has been broken down into several streams and roughly mapped to a timeline. Sign-up for the work that interests you on tab 4. Repos Project Plan
+Reach out to the workstream lead to learn more about the current status and work:
+Research: Bri and Dana
+Governance: Dorthe-Maj and Christina Tan
+Data mapping: Sam V and Brigette
+The folders for the project can be found here: 
+A shared folder: https://drive.google.com/drive/folders/1yannOYTIm_-Gl0RkgN9WsYAncEUfjLr7?usp=sharing 
+In this folder is a giant spreadsheet where all the stuff is being gathered. You should find the 'word salad', which is the way we are currently gathering terms for the taxonomy and the glossary.
+The Governance folder: https://drive.google.com/drive/folders/1461G8-y_qOI_Ake19SiNyK4bycV57_-H?usp=sharing 
+The Data folder: https://drive.google.com/drive/folders/1xLpobgr6ywOwqAMrzgoc-5GsrT3umzSL?usp=sharing 
+The Research folder: https://drive.google.com/drive/folders/1IdBI3HeQtGY98a7YlW1b-gMVzcStYjyS?usp=sharing 
+Please feel free to add to the spreadsheet, add research, existing taxonomies, templates, examples of research artefacts, research on research methodology, ethnographic data, whatever you think is useful!
 # The 2020 Research Repositories Workshops 
 Last year, we kicked off another global effort within the [ResearchOps Community](https://researchops.community/) -- to explore how we can contribute to the fast-changing field of research repositories. This is one part of that effort: a set of experience mapping workshops around the globe where we each can reflect on our experiences interacting with libraries of research data. _add what the outcome will be as a reason to be involved_
 ## We need your help!
