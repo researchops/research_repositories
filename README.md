@@ -1,6 +1,7 @@
-# The 2020 Research Repositories Project 
+# The Research Repositories Project 
 Last year, we kicked off another global effort within the [ResearchOps Community](https://researchops.community/) -- to explore how we can contribute to the fast-changing field of research repositories. This is one part of that effort: a set of experience mapping workshops around the globe where we each can reflect on our experiences interacting with libraries of research data. 
-_add what the outcome will be as a reason to be involved_
+# The 2020 Research Repositories Workshops 
+Last year, we kicked off another global effort within the [ResearchOps Community](https://researchops.community/) -- to explore how we can contribute to the fast-changing field of research repositories. This is one part of that effort: a set of experience mapping workshops around the globe where we each can reflect on our experiences interacting with libraries of research data. _add what the outcome will be as a reason to be involved_
 ## We need your help!
 _This section is for the calls-to-action that are most critical to the project right now and will evolve as we go -- but that does mean we need to have any links included here available in other sections more permanently_
 * [Sign up as an organiser](https://docs.google.com/forms/d/1ch9bDJdmQlMFwm4_4MsRpjh4ZxyjCM_v5Mi61kzuuPQ/viewform?edit_requested=true), join us for an [organiser briefing], and take a look at the [facilitator pack] to see what is involved. 
