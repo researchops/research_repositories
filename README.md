@@ -26,6 +26,8 @@ Please feel free to add to the spreadsheet, add research, existing taxonomies, t
 * _we could also post notes from the organiser debrief sessions and workshop experiences_
 
 ![blue section bar](https://drive.google.com/open?id=1s3KRYVMcG40X2jBJDlYm8imhkslxtK9K)
+<img width="828" alt="Blue Bar" src="https://user-images.githubusercontent.com/61110861/74689265-7fe08e80-51a8-11ea-98ee-9919922a35f0.png">
+
 # The 2020 Research Repositories Workshops 
 Last year, we kicked off another global effort within the [ResearchOps Community](https://researchops.community/) -- to explore how we can contribute to the fast-changing field of research repositories. This is one part of that effort: a set of experience mapping workshops around the globe where we each can reflect on our experiences interacting with libraries of research data. _add what the outcome will be as a reason to be involved_
 ## We need your help!
