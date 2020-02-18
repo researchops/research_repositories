@@ -20,6 +20,7 @@ The team working on Repository Governance are coming together to create framewor
 The projects include:
 > * [Interviews](https://docs.google.com/document/d/1fTAkTZv2m6zGmlKWk-6C2fEUiagxShkh49L4UwUmw5g/edit?usp=sharing)
 > * [Experience mapping Workshops](workshops/readme.md)
+> * [Experience mapping Workshops] (https://github.com/researchops/research_repositories/tree/master/workshops)
 
 Stream leads: Bri Norton and Dana Chrisfield
 
