@@ -10,6 +10,8 @@ Our intention with this project is to leverage the community to conduct research
 ## Articles & Blog Posts
 > * [Our Project Brief](https://docs.google.com/document/d/1fTAkTZv2m6zGmlKWk-6C2fEUiagxShkh49L4UwUmw5g/edit?usp=sharing)
 > * [Researching the Repositories… Get Involved!](https://medium.com/researchops-community/researching-the-repositories-get-involved-1a0f53ee2398)
+> * [Little Dictionaries: Making an open-source taxonomy for UX Research Repositories](https://medium.com/researchops-community/little-dictionaries-making-an-open-source-taxonomy-for-ux-research-repositories-5fe015a6d493)
+> * [Digging into research repositories: Join the ReOps Community’s latest global project](medium.com/researchops-community/digging-into-research-repositories-join-the-reops-communitys-newest-global-project-de731c40883)
 
 
 ## Workstreams
