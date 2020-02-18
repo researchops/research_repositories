@@ -15,9 +15,9 @@ _for Mark -- this is an example of including an image. the trick is to go to Iss
 * [Our Project Brief](https://docs.google.com/document/d/1fTAkTZv2m6zGmlKWk-6C2fEUiagxShkh49L4UwUmw5g/edit?usp=sharing)
 * [Researching the Repositories… Get Involved!](https://medium.com/researchops-community/researching-the-repositories-get-involved-1a0f53ee2398)
 
+
 :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: 
-:sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: 
-:sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: 
+:sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles:  
  
 
 # The 2020 Research Repositories Workshops 
