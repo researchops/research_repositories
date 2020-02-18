@@ -7,9 +7,9 @@ We have embarked on a series of research activities, both online and in-person, 
 
 Our intention with this project is to leverage the community to conduct research, map out the problem space, construct shared definitions, taxonomies, and models, prescribe good governance and guidelines, and develop guidance for building, comparing, and evaluating research repositories. But the truly worthwhile parts happen along the way, as we create opportunities for researchers to reflect on the work they have done and the ways they want to grow as practitioners and leaders, to engage with members of the community in their own locales or across the globe to commiserate, support, and learn from each other, and to create a path forward together in the land of research repositories. 
 
-## Articles & Blog Posts
-* [Our Project Brief](https://docs.google.com/document/d/1fTAkTZv2m6zGmlKWk-6C2fEUiagxShkh49L4UwUmw5g/edit?usp=sharing)
-* [Researching the Repositories… Get Involved!](https://medium.com/researchops-community/researching-the-repositories-get-involved-1a0f53ee2398)
+    ## Articles & Blog Posts
+    * [Our Project Brief](https://docs.google.com/document/d/1fTAkTZv2m6zGmlKWk-6C2fEUiagxShkh49L4UwUmw5g/edit?usp=sharing)
+    * [Researching the Repositories… Get Involved!](https://medium.com/researchops-community/researching-the-repositories-get-involved-1a0f53ee2398)
 
 
 _for Mark -- this is an example of including an image. the trick is to go to Issues on the top page menu, then hit the Add a new issue button, and then drag your image file into the big box, where it will be translated into a url that you can copy and paste directly here. You don't need to save the issue._
