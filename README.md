@@ -1,4 +1,3 @@
-'''javascript
 # The Research Repositories Project 
 Last year, we kicked off another global effort within the [ResearchOps Community](https://researchops.community/) -- to explore how we can contribute to the fast-changing field of research repositories. 
 
@@ -12,15 +11,14 @@ _for Mark -- this is an example of including an image. the trick is to go to Iss
 
 <img width="660" alt="Tube map v1" src="https://user-images.githubusercontent.com/61110861/74689383-eb2a6080-51a8-11ea-98b3-62728a0e190b.png">
 
-'''
 ## Articles & Blog Posts
 * [Our Project Brief](https://docs.google.com/document/d/1fTAkTZv2m6zGmlKWk-6C2fEUiagxShkh49L4UwUmw5g/edit?usp=sharing)
 * [Researching the Repositories… Get Involved!](https://medium.com/researchops-community/researching-the-repositories-get-involved-1a0f53ee2398)
-'''
 
-<img width="828" alt="Blue Bar" src="https://user-images.githubusercontent.com/61110861/74689265-7fe08e80-51a8-11ea-98ee-9919922a35f0.png">
-
+:sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: 
 :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: 
+:sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: :sparkles: 
+ 
 
 # The 2020 Research Repositories Workshops 
 We’ve been hard at work on the #research_repositories project and we’re ready for the next phase: a set of experience mapping workshops around the globe where we each can reflect on our experiences interacting with libraries of research data. 
