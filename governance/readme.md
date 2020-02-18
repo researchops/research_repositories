@@ -28,7 +28,7 @@ Date
 Topics
 Links
 
-*[PII across the world] (https://airtable.com/tblI8hs6s3MMlyowi/viwhX6l6C1V90BicI?blocks=hide)Aug 2019
+*[PII across the world](https://airtable.com/tblI8hs6s3MMlyowi/viwhX6l6C1V90BicI?blocks=hide)Aug 2019
 
 *[GDPR](https://drive.google.com/drive/folders/1rArhutU9nU941JWYRiHfzbZIfaZ9euji) Aug 2019
 
