@@ -12,6 +12,38 @@ Our intention with this project is to leverage the community to conduct research
 > * [Researching the Repositories… Get Involved!](https://medium.com/researchops-community/researching-the-repositories-get-involved-1a0f53ee2398)
 
 
+## Workstreams
+
+### Research
+The team working on Repository Governance are coming together to create frameworks which involves global PII, GDPR, Consent & Privacy, Ethics for collecting, storing and sharing data; promoting best practices to help researchers protect the rights, safety and wellbeing of those involved in managing repositories.
+
+The projects include:
+> * [Interviews](https://docs.google.com/document/d/1fTAkTZv2m6zGmlKWk-6C2fEUiagxShkh49L4UwUmw5g/edit?usp=sharing)
+> * [Experience mapping Workshops](https://https://github.com/researchops/research_repositories/tree/master/workshops)
+
+Stream leads: Bri Norton and Dana Chrisfield
+
+Slack channel: #repo-governance
+
+
+### Data
+The team working on Repository Governance are coming together to create frameworks which involves global PII, GDPR, Consent & Privacy, Ethics for collecting, storing and sharing data; promoting best practices to help researchers protect the rights, safety and wellbeing of those involved in managing repositories.
+
+The projects include:
+
+Stream leads: Brigette Metzler and Sam Vijghen
+
+Slack channel: #repo-governance
+
+### Governance
+The team working on Repository Governance are coming together to create frameworks which involves global PII, GDPR, Consent & Privacy, Ethics for collecting, storing and sharing data; promoting best practices to help researchers protect the rights, safety and wellbeing of those involved in managing repositories.
+
+The projects include:
+
+Stream leads: Dorthe-Maj Jacobsen and Christina Tan
+
+Slack channel: #repo-governance
+
 _**for Mark** -- below is an example of including an image. the trick is to go to Issues on the top page menu, then hit the Add a new issue button, and then drag your image file into the big box, where it will be translated into a url that you can copy and paste directly here. You don't need to save the issue._
 
 <img width="660" alt="Tube map v1" src="https://user-images.githubusercontent.com/61110861/74689383-eb2a6080-51a8-11ea-98b3-62728a0e190b.png">
