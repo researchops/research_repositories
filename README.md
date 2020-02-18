@@ -12,7 +12,7 @@ Our intention with this project is to leverage the community to conduct research
 > * [Researching the Repositories… Get Involved!](https://medium.com/researchops-community/researching-the-repositories-get-involved-1a0f53ee2398)
 
 
-_for Mark -- this is an example of including an image. the trick is to go to Issues on the top page menu, then hit the Add a new issue button, and then drag your image file into the big box, where it will be translated into a url that you can copy and paste directly here. You don't need to save the issue._
+_*for Mark* -- below is an example of including an image. the trick is to go to Issues on the top page menu, then hit the Add a new issue button, and then drag your image file into the big box, where it will be translated into a url that you can copy and paste directly here. You don't need to save the issue._
 
 <img width="660" alt="Tube map v1" src="https://user-images.githubusercontent.com/61110861/74689383-eb2a6080-51a8-11ea-98b3-62728a0e190b.png">
 
